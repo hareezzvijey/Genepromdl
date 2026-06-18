@@ -1,0 +1,16 @@
+# Ignore data files
+data/
+*.dat
+*.npy
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Env
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
