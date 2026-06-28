@@ -241,16 +241,3 @@ BATCH_SIZE = 128   # default 256 — halve if OOM
 - Hu J et al. Squeeze-and-Excitation Networks. *CVPR*, 2018
 
 ---
-
-## Citation
-
-If you use this project or its findings, please cite:
-
-```
-@misc{genepromdl2025,
-  title   = {GenePromDL: Systematic Investigation of Biological Feature 
-             Contribution in Cancer Drug Sensitivity Prediction},
-  year    = {2025},
-  note    = {Undergraduate Final Year Project, AIML},
-}
-```
